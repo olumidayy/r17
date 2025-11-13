@@ -1,0 +1,15 @@
+module.exports = {
+  AC01: 'Insufficient funds in debit account',
+  AC02: 'Debit and credit accounts cannot be the same',
+  AC03: 'Account not found',
+  AC04: 'Invalid account format',
+  CU01: 'Currency mismatch between accounts',
+  CU02: 'Unsupported currency',
+  AM01: 'Invalid amount',
+  DT01: 'Invalid date format',
+  SY01: 'Missing keyword(s)',
+  SY02: 'Incorrect keyword order',
+  SY03: 'Unable to parse instruction',
+  AP00: 'Instruction executed successfully',
+  AP02: 'Instruction pending future execution date',
+};
